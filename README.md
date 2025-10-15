@@ -6,4 +6,4 @@ current semester main projects:
 - **IOT:** https://camarvolt.github.io/
 - **Operational Research:** https://jaissongroup.github.io/
 - **Machine Learning:**: https://github.com/MachineNeyarning
-- - **Data Science:**: https://github.com/manseiracredit
+- **Data Science:**: https://github.com/manseiracredit
